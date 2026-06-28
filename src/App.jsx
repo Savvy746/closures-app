@@ -3,7 +3,7 @@ import { DATA } from "./data/problem.js";
 import "./styles/app.css";
 import { runCode } from "./lib/runner.js";
 import { compareOutput } from "./lib/compare.js";
-
+import { CodeEditor } from "./components/CodeEditor.jsx";
 
 
 
